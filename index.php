@@ -15,7 +15,7 @@ $news = [
 //$id =(int)$_GET['id'];
 //$article = $news[$id];
 //var_dump($article);
-
+var_dump($_POST);
 ?>
 <!---->
 <!--<h1>--><?php //echo $article['title'] ?><!--</h1>-->
